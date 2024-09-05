@@ -17,6 +17,8 @@ This Flutter application is designed to:
  **Generate QR code for text, URL, and Wi-Fi network information.**
 ![Example GIF](assets/Scan.gif)
 
+  ***To Download the APK find app-release.apk in the root directory.***
+
 **Key Features**
 
 - **Efficient QR code scanning:** Utilizes advanced QR code scanning libraries for fast and reliable results.
