@@ -9,7 +9,12 @@ This Flutter application is designed to:
 - **Share QR codes:** Easily share generated QR codes as images (PNG format) with others.
 - **Open URLs:** Automatically open URLs contained within scanned QR codes.
 
+**Demo**
+
+ **Scan QR codes containing text, URL, and Wi-Fi network information.**
 ![Example GIF](assets/Generate.gif)
+
+ **Generate QR code for text, URL, and Wi-Fi network information.**
 ![Example GIF](assets/Scan.gif)
 
 **Key Features**
